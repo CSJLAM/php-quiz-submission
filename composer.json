@@ -1,0 +1,15 @@
+{
+    "name": "jasonlam/php-quiz-submission",
+    "autoload": {
+        "psr-4": {
+            "Jasonlam\\PhpQuizSubmission\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CSJLAM",
+            "email": "40157850+CSJLAM@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
