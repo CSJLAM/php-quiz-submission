@@ -1,1 +1,21 @@
 /vendor/
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Composer
+/vendor/
+composer.lock
+
+# Environment and configuration
+/config/config.php
+.env
+
+# Logs
+*.log
+
+# Cache
+*.cache
